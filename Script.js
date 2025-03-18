@@ -1,1 +1,1 @@
-console.log("hello world");'sbdcvdvczxvczbxvc'
+console.log("hello world");'Hi all'
